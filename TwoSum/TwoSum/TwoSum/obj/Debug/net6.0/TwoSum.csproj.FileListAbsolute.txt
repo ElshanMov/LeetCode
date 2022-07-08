@@ -1,0 +1,15 @@
+C:\Masaüstü\Algorithm\TwoSum\TwoSum\TwoSum\bin\Debug\net6.0\TwoSum.exe
+C:\Masaüstü\Algorithm\TwoSum\TwoSum\TwoSum\bin\Debug\net6.0\TwoSum.deps.json
+C:\Masaüstü\Algorithm\TwoSum\TwoSum\TwoSum\bin\Debug\net6.0\TwoSum.runtimeconfig.json
+C:\Masaüstü\Algorithm\TwoSum\TwoSum\TwoSum\bin\Debug\net6.0\TwoSum.dll
+C:\Masaüstü\Algorithm\TwoSum\TwoSum\TwoSum\bin\Debug\net6.0\TwoSum.pdb
+C:\Masaüstü\Algorithm\TwoSum\TwoSum\TwoSum\obj\Debug\net6.0\TwoSum.csproj.AssemblyReference.cache
+C:\Masaüstü\Algorithm\TwoSum\TwoSum\TwoSum\obj\Debug\net6.0\TwoSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Masaüstü\Algorithm\TwoSum\TwoSum\TwoSum\obj\Debug\net6.0\TwoSum.AssemblyInfoInputs.cache
+C:\Masaüstü\Algorithm\TwoSum\TwoSum\TwoSum\obj\Debug\net6.0\TwoSum.AssemblyInfo.cs
+C:\Masaüstü\Algorithm\TwoSum\TwoSum\TwoSum\obj\Debug\net6.0\TwoSum.csproj.CoreCompileInputs.cache
+C:\Masaüstü\Algorithm\TwoSum\TwoSum\TwoSum\obj\Debug\net6.0\TwoSum.dll
+C:\Masaüstü\Algorithm\TwoSum\TwoSum\TwoSum\obj\Debug\net6.0\refint\TwoSum.dll
+C:\Masaüstü\Algorithm\TwoSum\TwoSum\TwoSum\obj\Debug\net6.0\TwoSum.pdb
+C:\Masaüstü\Algorithm\TwoSum\TwoSum\TwoSum\obj\Debug\net6.0\TwoSum.genruntimeconfig.cache
+C:\Masaüstü\Algorithm\TwoSum\TwoSum\TwoSum\obj\Debug\net6.0\ref\TwoSum.dll
