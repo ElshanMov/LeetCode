@@ -1,0 +1,29 @@
+ public int LengthOfLongestSubstring(string s)
+    {
+        int count = 0;
+        int stringLength = s.Length;
+        bool flag;
+        if (string.IsNullOrWhiteSpace(s))
+        {
+            return 0;
+        }
+        for (int i = 0; i < stringLength; i++)
+        {
+            flag = true;
+
+            for (int j = i + 1; j < stringLength; j++)
+            {
+                if (s[i] == s[j])
+                {
+                    flag = false;
+                    break;
+                }
+            }
+            if (flag)
+            {
+                count++;
+
+            }
+        }
+        return count;
+    }
