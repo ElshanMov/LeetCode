@@ -1,4 +1,4 @@
- public int LengthOfLongestSubstring(string s)
+ public int NonRepeatingCharCount(string s)
     {
         int count = 0;
         int stringLength = s.Length;
